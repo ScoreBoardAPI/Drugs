@@ -1,5 +1,0 @@
-name: Drugs
-version: ${git.commit.id.abbrev}-${git.branch}
-author: ScoreBoardAPI
-main: me.scoreboardapi.drugs.DrugPlugin
-depend: [Stark]
